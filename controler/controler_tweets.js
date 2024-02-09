@@ -1,5 +1,5 @@
 
-const tweets = [
+const tweets =[
     {
       id: 1,
       title: "bon",
